@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nivethithaan-Kumar01
+- 👋 Hi, I’m @Nivethithaan-Kumar
 - 👀 I’m interested in Data Science, Information Security, Software Development and Human-Computer Interface.
 - 🌱 I’m currently learning about Data Science and Cyber Security.
 - 💞️ I’m looking to collaborate on projects involving Data Science and Artificial Intelligence.
